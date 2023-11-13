@@ -1,0 +1,17 @@
+{
+    "@odata.context": "$metadata#Tags/$entity",
+    "account": {
+        "uid": "10003871"
+    },
+    "age": "0",
+    "discount": "0",
+    "id": "OHLM20000068",
+    "negativeBalanceAllowedTagVip": "0.000000",
+    "productId": "1",
+    "referenceDate": "2023-06-05T00:00:00",
+    "serialId": "OHLM20000068",
+    "staffRechargePercentage": "0",
+    "tagStatus": {
+        "id": "1"
+    }
+}
